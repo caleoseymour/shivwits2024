@@ -1,0 +1,142 @@
+br08901	KEGG pathway maps
+br08902	BRITE hierarchy files
+br08904	BRITE table files
+br08906	BRITE binary relation files
+ko00001	KEGG Orthology (KO)
+ko00002	KEGG modules
+ko00003	KEGG reaction modules
+br08907	KEGG networks
+ko01000	Enzymes
+ko01001	Protein kinases
+ko01009	Protein phosphatases and associated proteins
+ko01002	Peptidases and inhibitors
+ko01003	Glycosyltransferases
+ko01005	Lipopolysaccharide biosynthesis proteins
+ko01011	Peptidoglycan biosynthesis and degradation proteins
+ko01004	Lipid biosynthesis proteins
+ko01008	Polyketide biosynthesis proteins
+ko01006	Prenyltransferases
+ko01007	Amino acid related enzymes
+ko00199	Cytochrome P450
+ko00194	Photosynthesis proteins
+ko03000	Transcription factors
+ko03021	Transcription machinery
+ko03019	Messenger RNA biogenesis
+ko03041	Spliceosome
+ko03011	Ribosome
+ko03009	Ribosome biogenesis
+ko03016	Transfer RNA biogenesis
+ko03012	Translation factors
+ko03110	Chaperones and folding catalysts
+ko04131	Membrane trafficking
+ko04121	Ubiquitin system
+ko03051	Proteasome
+ko03032	DNA replication proteins
+ko03036	Chromosome and associated proteins
+ko03400	DNA repair and recombination proteins
+ko03029	Mitochondrial biogenesis
+ko02000	Transporters
+ko02044	Secretion system
+ko02042	Bacterial toxins
+ko02022	Two-component system
+ko02035	Bacterial motility proteins
+ko03037	Cilium and associated proteins
+ko04812	Cytoskeleton proteins
+ko04147	Exosome
+ko02048	Prokaryotic defense system
+ko04030	G protein-coupled receptors
+ko04050	Cytokine receptors
+ko04054	Pattern recognition receptors
+ko03310	Nuclear receptors
+ko04040	Ion channels
+ko04031	GTP-binding proteins
+ko04052	Cytokines and growth factors
+ko04515	Cell adhesion molecules
+ko04090	CD molecules
+ko01504	Antimicrobial resistance genes
+ko00535	Proteoglycans
+ko00536	Glycosaminoglycan binding proteins
+ko00537	Glycosylphosphatidylinositol (GPI)-anchored proteins
+ko04091	Lectins
+ko04990	Domain-containing proteins not elsewhere classified
+ko03200	Viral proteins
+ko03210	Viral fusion proteins
+ko03100	Non-coding RNAs
+br08001	Compounds with biological roles
+br08002	Lipids
+br08003	Phytochemical compounds
+br08005	Bioactive peptides
+br08006	Endocrine disrupting compounds
+br08007	Pesticides
+br08009	Natural toxins
+br08021	Glycosides
+br08120	O-antigens
+br08201	Enzymatic reactions
+br08202	IUBMB reaction hierarchy
+br08204	Reaction class
+br08203	Glycosyltransferase reactions
+br08303	Anatomical Therapeutic Chemical (ATC) classification
+br08302	USP drug classification
+br08301	Therapeutic category of drugs in Japan
+br08313	Classification of Japanese OTC drugs
+br08312	Risk category of Japanese OTC drugs
+br08304	Traditional Chinese Medicine in Japan
+br08305	Crude drugs
+br08331	Animal drugs in Japan
+br08330	Drug groups
+br08332	Drug classes
+br08310	Target-based classification of drugs
+br08307	Antimicrobials
+br08327	Antimicrobials abbreviations
+br08311	Drugs listed in the Japanese Pharmacopoeia
+br08403	Human diseases in ICD-11 classification
+br08402	Pathway-based classification of diseases
+br08401	Genome-based classification of infectious diseases
+br08411	ICD-11 International Classification of Diseases
+br08410	ICD-10 International Classification of Diseases
+br08420	ICD-O-3 International Classification of Diseases for Oncology
+br08601	KEGG organisms
+br08610	KEGG organisms in the NCBI taxonomy
+br08611	KEGG organisms in taxonomic ranks
+br08612	KEGG organisms: animals
+br08613	KEGG organisms: plants
+br08614	KEGG organisms: fungi
+br08615	KEGG organisms: protists
+br08620	KEGG viruses in the NCBI taxonomy
+br08621	KEGG viruses in taxonomic ranks
+br08605	Plant pathogens
+br03220	(table) Virus entry
+br03222	(table) Virus entry: animal viruses
+br03223	(table) Viral network perturbations
+br01610	(table) Ribosomal proteins
+br01611	(table) RNA polymerases
+br01612	(table) DNA polymerases
+br01613	(table) Aminoacyl-tRNA synthetases
+br01601	(table) Enzymes of 2-oxocarboxylic acid metabolism
+br01602	(table) Dioxygenases
+br01600	(table) Antimicrobial resistance: KEGG signatures
+br01620	(table) Photosynthetic and chemosynthetic capacities
+br01553	(table) Antimicrobial resistance: beta-lactamase genes
+br01554	(table) Antimicrobial resistance: aminoglycoside resistance genes
+br01556	(table) Antimicrobial resistance: tetracycline resistance genes
+br01555	(table) Antimicrobial resistance: macrolide resistance genes
+br01557	(table) Antimicrobial resistance: other resistance genes
+br01800	(table) Sequence data for EC numbers
+br01810	(table) Sequence data for CYP nomenclature
+br08011	(table) Secondary metabolites in pathway maps
+br08020	(table) Nucleotide sugars
+br08012	(table) Dietary phytochemicals
+br08110	(table) Blood groups and carbohydrate antigens
+br08319	(table) New drug approvals in the USA
+br08329	(table) New drug approvals in Europe
+br08318	(table) New drug approvals in Japan
+br08328	(table) New drug approvals in the USA, Europe and Japan
+br08309	(table) Drug metabolizing enzymes and transporters
+br08341	(table) Pharmacogenomic biomarkers
+br08324	(table) Prodrugs
+br08317	(table) Topical steroids potency
+br08315	(table) Rx-to-OTC switch list in the USA
+br08314	(table) Rx-to-OTC switch list in Japan
+br08442	(table) Tumor markers
+br08441	(table) Cancer-associated carbohydrates
+br08431	(table) Carbohydrates in viral and bacterial infections

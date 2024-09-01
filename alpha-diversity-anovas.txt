@@ -1,0 +1,72 @@
+ANOVA FORMULA:  Observed ~ Day*Treatment 
+WATER:
+              Df Sum Sq Mean Sq F value  Pr(>F)   
+Day            1  15987   15987  12.011 0.00850 **
+Treatment      1  11163   11163   8.386 0.02002 * 
+Day:Treatment  1  32448   32448  24.377 0.00114 **
+Residuals      8  10649    1331                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+HIDES:
+            Df Sum Sq Mean Sq F value   Pr(>F)    
+Day          1 180400  180400  42.123 0.000636 ***
+Treatment    1  41003   41003   9.574 0.021273 *  
+Residuals    6  25696    4283                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+-------------------------------------------------------------------
+ANOVA FORMULA:  Shannon ~ Day*Treatment 
+WATER:
+              Df Sum Sq Mean Sq F value  Pr(>F)   
+Day            1 0.8584  0.8584   7.649 0.02446 * 
+Treatment      1 0.0000  0.0000   0.000 0.98724   
+Day:Treatment  1 1.8899  1.8899  16.839 0.00342 **
+Residuals      8 0.8979  0.1122                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+HIDES:
+            Df Sum Sq Mean Sq F value   Pr(>F)    
+Day          1 1.8844  1.8844   43.81 0.000573 ***
+Treatment    1 0.8984  0.8984   20.89 0.003810 ** 
+Residuals    6 0.2581  0.0430                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+-------------------------------------------------------------------
+ANOVA FORMULA:  Faiths.PD ~ Day*Treatment 
+WATER:
+              Df Sum Sq Mean Sq F value   Pr(>F)    
+Day            1  14.79   14.79   6.600 0.033175 *  
+Treatment      1   9.14    9.14   4.079 0.078111 .  
+Day:Treatment  1  61.05   61.05  27.250 0.000802 ***
+Residuals      8  17.92    2.24                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+HIDES:
+            Df Sum Sq Mean Sq F value  Pr(>F)   
+Day          1  520.1   520.1   18.28 0.00523 **
+Treatment    1  158.4   158.4    5.57 0.05628 . 
+Residuals    6  170.7    28.4                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+-------------------------------------------------------------------
+ANOVA FORMULA:  Simpson ~ Day*Treatment 
+WATER:
+              Df   Sum Sq  Mean Sq F value Pr(>F)  
+Day            1 0.002003 0.002003   4.871 0.0583 .
+Treatment      1 0.002102 0.002102   5.112 0.0536 .
+Day:Treatment  1 0.003996 0.003996   9.719 0.0143 *
+Residuals      8 0.003289 0.000411                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+HIDES:
+            Df    Sum Sq   Mean Sq F value Pr(>F)  
+Day          1 0.0008882 0.0008882   7.576 0.0332 *
+Treatment    1 0.0004652 0.0004652   3.967 0.0935 .
+Residuals    6 0.0007035 0.0001172                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+-------------------------------------------------------------------

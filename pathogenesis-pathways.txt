@@ -1,0 +1,937 @@
+type	ko	gene	name
+Toxin	K00776	tox	NAD-diphthamide ADP-ribosyltransferase [EC:2.4.2.36]
+Toxin	K10928	ctxA	cholera enterotoxin subunit A [EC:2.4.2.36]
+Toxin	K10929	ctxB	cholera enterotoxin subunit B
+Toxin	K11020	toxA	exotoxin A [EC:2.4.2.-]
+Toxin	K16635	exoS	exoenzyme S
+Toxin	K16636	exoT	exoenzyme T
+Toxin	K11023	"ptxA, artA, pltA"	pertussis toxin subunit 1 [EC:2.4.2.-]
+Toxin	K11024	ptxB	pertussis toxin subunit 2
+Toxin	K11025	ptxC	pertussis toxin subunit 3
+Toxin	K11026	ptxD	pertussis toxin subunit 4
+Toxin	K11027	ptxE	pertussis toxin subunit 5
+Toxin	K11023	"ptxA, artA, pltA"	pertussis toxin subunit 1 [EC:2.4.2.-]
+Toxin	K19298	"subB, artB, pltB"	"subtilase cytotoxin, subunit B"
+Toxin	K11044	spyA	C3 family ADP-ribosyltransferase [EC:2.4.2.-]
+Toxin	K06011	boNT	botulinum neurotoxin [EC:3.4.24.69]
+Toxin	K16623	ntnH	botulinum neurotoxin type non-toxic component
+Toxin	K16624	ha-33	main hemagglutinin component
+Toxin	K16625	ha-17	hemagglutinin component HA-17
+Toxin	K16626	ha-70	hemagglutinin components HA-22/23/53
+Toxin	K08644	tetX	tentoxilysin [EC:3.4.24.68]
+Toxin	K08645	lef	anthrax lethal toxin endopeptidase [EC:3.4.24.83]
+Toxin	K11030	pagA	protective antigen
+Toxin	K11029	cyaA	anthrax edema toxin adenylate cyclase [EC:4.6.1.1]
+Toxin	K11030	pagA	protective antigen
+Toxin	K22944	cyaA	bifunctional hemolysin/adenylate cyclase [EC:4.6.1.1]
+Toxin	K16637	"K16637, exoY"	adenylate cyclase ExoY
+Toxin	K10954	zot	zona occludens toxin
+Toxin	K11006	stxA	shiga toxin subunit A
+Toxin	K11007	stxB	shiga toxin subunit B
+Toxin	K19297	subA	"subtilase cytotoxin, subunit A"
+Toxin	K19298	"subB, artB, pltB"	"subtilase cytotoxin, subunit B"
+Toxin	K11008	cnf1	cytotoxic necrotizing factor 1
+Toxin	K11011	set1A	enterotoxin Set1A
+Toxin	K11012	set1B	enterotoxin Set1B
+Toxin	K11028	vacA	vacuolating cytotoxin
+Toxin	K11013	cdtA	cytolethal distending toxin subunit A
+Toxin	K11014	cdtB	cytolethal distending toxin subunit B
+Toxin	K11015	cdtC	cytolethal distending toxin subunit C
+Toxin	K11041	eta	exfoliative toxin A/B
+Toxin	K11063	tcdAB	toxin A/B
+Toxin	K19615	"fitD, mcf"	insecticidal toxin
+Toxin	K11021	tccC	insecticidal toxin complex protein TccC
+Toxin	K16883	sta	heat-stable enterotoxin STa/STI
+Toxin	K16884	stb	heat-stable enterotoxin STb/STII
+Toxin	K11014	cdtB	cytolethal distending toxin subunit B
+Toxin	K11023	"ptxA, artA, pltA"	pertussis toxin subunit 1 [EC:2.4.2.-]
+Toxin	K19298	"subB, artB, pltB"	"subtilase cytotoxin, subunit B"
+Toxin	K10948	hlyA	hemolysin
+Toxin	K11031	slo	thiol-activated cytolysin
+Toxin	K11032	hlyII	hemolysin II
+Toxin	K11038	"hlg, luk"	leukocidin/hemolysin toxin family protein
+Toxin	K11058	cpe	enterotoxin Cpe
+Toxin	K10953	rtxA	RTX toxin RtxA
+Toxin	K11005	hlyA	hemolysin A
+Toxin	K11022	"rtxA1, rtxA"	structural toxin protein (hemagglutinin/hemolysin) RtxA
+Toxin	K03699	tlyC	"magnesium and cobalt exporter, CNNM family"
+Toxin	K10952	ace	accessory cholera enterotoxin
+Toxin	K11016	"shlA, hhdA, hpmA"	hemolysin
+Toxin	K11017	"shlB, hhdB, hpmB"	hemolysin activation/secretion protein
+Toxin	K11019	tdh	thermostable direct hemolysin
+Toxin	K11028	vacA	vacuolating cytotoxin
+Toxin	K11033	nheA	non-hemolytic enterotoxin A
+Toxin	K11034	nheBC	non-hemolytic enterotoxin B/C
+Toxin	K11035	hblAB	hemolysin BL binding component
+Toxin	K11036	hblC	hemolysin BL lytic component L2
+Toxin	K11037	hblD	hemolysin BL lytic component L1
+Toxin	K11039	hld	delta-hemolysin
+Toxin	K11045	cfa	cAMP factor
+Toxin	K11046	sagA	streptolysin S associated protein
+Toxin	K11052	cylE	CylE protein
+Toxin	K11068	hlyIII	hemolysin III
+Toxin	K11139	"hlyE, clyA, sheA"	hemolysin E
+Toxin	K01114	plc	phospholipase C [EC:3.1.4.3]
+Toxin	K16619	"plc, cpa"	phospholipase C / alpha-toxin [EC:3.1.4.3]
+Toxin	K11018	tlh	thermolabile hemolysin
+Toxin	K16638	exoU	exoenzyme U
+Toxin	K11010	ympA	superantigen YpmA
+Toxin	K11040	se	staphylococcal enterotoxin
+Toxin	K11041	eta	exfoliative toxin A/B
+Toxin	K11043	tst	toxic shock syndrome toxin-1
+Toxin	K23550	nanH	sialidase [EC:3.2.1.18]
+Toxin	K01197	hya	hyaluronoglucosaminidase [EC:3.2.1.35]
+Toxin	K01387	colA	microbial collagenase [EC:3.4.24.3]
+Toxin	K08587	cloSI	clostripain [EC:3.4.22.8]
+Toxin	K11009	ymt	murine toxin
+Toxin	K10814	hcnA	hydrogen cyanide synthase HcnA [EC:1.4.99.5]
+Toxin	K10815	hcnB	hydrogen cyanide synthase HcnB [EC:1.4.99.5]
+Toxin	K10816	hcnC	hydrogen cyanide synthase HcnC [EC:1.4.99.5]
+Toxin	K11057	cpb2	beta2-toxin
+Toxin	K11059	entA	probable enterotoxin A
+Toxin	K11060	entB	probable enterotoxin B
+Toxin	K11061	entC	probable enterotoxin C
+Toxin	K11062	entD	probable enterotoxin D
+Toxin	K15126	bteA	type III secretion system cytotoxic effector protein
+Toxin	K11042	ssl1	superantigen-like protein 1
+Toxin	K23587	ssl5_11	superantigen-like protein 5/11
+Toxin	K23586	"ssl7, set1"	superantigen-like protein 7
+Bacterial invasion of epithelial cells	K13730		internalin A
+Bacterial invasion of epithelial cells	K13731		internalin B
+Bacterial invasion of epithelial cells	K13732		fibronectin-binding protein A
+Bacterial invasion of epithelial cells	K13733		fibronectin-binding protein B
+Bacterial invasion of epithelial cells	K13925		plasmin and fibronectin-binding protein A
+Bacterial invasion of epithelial cells	K13734		fibronectin-binding protein 1
+Bacterial invasion of epithelial cells	K13735		adhesin/invasin
+Bacterial invasion of epithelial cells	K05689		"cadherin 1, type 1, E-cadherin"
+Bacterial invasion of epithelial cells	K02105		catenin beta 1
+Bacterial invasion of epithelial cells	K05691		catenin alpha
+Bacterial invasion of epithelial cells	K13736		Rho GTPase-activating protein 10
+Bacterial invasion of epithelial cells	K05099		proto-oncogene tyrosine-protein kinase Met [EC:2.7.10.1]
+Bacterial invasion of epithelial cells	K09593		GRB2-associated-binding protein 1
+Bacterial invasion of epithelial cells	K02649		phosphoinositide-3-kinase regulatory subunit alpha/beta/delta
+Bacterial invasion of epithelial cells	K00922		"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha/beta/delta [EC:2.7.1.153]"
+Bacterial invasion of epithelial cells	K04438		C-crk adapter molecule crk
+Bacterial invasion of epithelial cells	K13708		dedicator of cytokinesis protein 1
+Bacterial invasion of epithelial cells	K04393		cell division control protein 42
+Bacterial invasion of epithelial cells	K04392		Ras-related C3 botulinum toxin substrate 1
+Bacterial invasion of epithelial cells	K23612		neural Wiskott-Aldrich syndrome protein
+Bacterial invasion of epithelial cells	K05753		"WAS protein family, member 1"
+Bacterial invasion of epithelial cells	K05748		"WAS protein family, member 2"
+Bacterial invasion of epithelial cells	K17260		actin-related protein 2
+Bacterial invasion of epithelial cells	K18584		actin-related protein 3
+Bacterial invasion of epithelial cells	K05757		"actin related protein 2/3 complex, subunit 1A/1B"
+Bacterial invasion of epithelial cells	K05758		"actin related protein 2/3 complex, subunit 2"
+Bacterial invasion of epithelial cells	K05756		"actin related protein 2/3 complex, subunit 3"
+Bacterial invasion of epithelial cells	K05755		"actin related protein 2/3 complex, subunit 4"
+Bacterial invasion of epithelial cells	K05754		"actin related protein 2/3 complex, subunit 5"
+Bacterial invasion of epithelial cells	K05692		actin beta/gamma 1
+Bacterial invasion of epithelial cells	K13737		septin 1
+Bacterial invasion of epithelial cells	K16942		septin 2
+Bacterial invasion of epithelial cells	K16938		septin 3/9/12
+Bacterial invasion of epithelial cells	K16939		septin 6/8/11
+Bacterial invasion of epithelial cells	K04707		E3 ubiquitin-protein ligase CBL [EC:2.3.2.27]
+Bacterial invasion of epithelial cells	K06279		SHC-transforming protein 1
+Bacterial invasion of epithelial cells	K17447		SHC-transforming protein 2
+Bacterial invasion of epithelial cells	K17448		SHC-transforming protein 3
+Bacterial invasion of epithelial cells	K17449		SHC-transforming protein 4
+Bacterial invasion of epithelial cells	K13738		CD2-associated protein
+Bacterial invasion of epithelial cells	K01528		dynamin 1/3 [EC:3.6.5.5]
+Bacterial invasion of epithelial cells	K23484		dynamin 2 [EC:3.6.5.5]
+Bacterial invasion of epithelial cells	K04644		clathrin light chain A
+Bacterial invasion of epithelial cells	K04645		clathrin light chain B
+Bacterial invasion of epithelial cells	K04646		clathrin heavy chain
+Bacterial invasion of epithelial cells	K06278		caveolin 1
+Bacterial invasion of epithelial cells	K12958		caveolin 2
+Bacterial invasion of epithelial cells	K12959		caveolin 3
+Bacterial invasion of epithelial cells	K06106		cortactin
+Bacterial invasion of epithelial cells	K05704		tyrosine-protein kinase Src [EC:2.7.10.2]
+Bacterial invasion of epithelial cells	K05725		focal adhesion kinase 1 [EC:2.7.10.2]
+Bacterial invasion of epithelial cells	K05726		breast cancer anti-estrogen resistance 1
+Bacterial invasion of epithelial cells	K05760		paxillin
+Bacterial invasion of epithelial cells	K05717		fibronectin 1
+Bacterial invasion of epithelial cells	K06484		integrin alpha 5
+Bacterial invasion of epithelial cells	K05719		integrin beta 1
+Bacterial invasion of epithelial cells	K06272		integrin-linked kinase [EC:2.7.11.1]
+Bacterial invasion of epithelial cells	K13287		invasin D
+Bacterial invasion of epithelial cells	K13286		invasin C
+Bacterial invasion of epithelial cells	K13285		invasin B
+Bacterial invasion of epithelial cells	K13739		secreted effector protein SopD
+Bacterial invasion of epithelial cells	K13284		invasin A
+Bacterial invasion of epithelial cells	K13740		secreted effector protein SptP
+Bacterial invasion of epithelial cells	K13741		guanine nucleotide exchange factor SopE
+Bacterial invasion of epithelial cells	K13085		"phosphatidylinositol-4,5-bisphosphate 4-phosphatase [EC:3.1.3.78]"
+Bacterial invasion of epithelial cells	K13742		protein IpgB1
+Bacterial invasion of epithelial cells	K13743		protein IpgB2
+Bacterial invasion of epithelial cells	K12785		LEE-encoded effector EspG
+Bacterial invasion of epithelial cells	K13728		mitotic spindle assembly checkpoint protein MAD2B
+Bacterial invasion of epithelial cells	K13744		Rho guanine nucleotide exchange factor 26
+Bacterial invasion of epithelial cells	K07863		"Ras homolog gene family, member G"
+Bacterial invasion of epithelial cells	K12366		engulfment and cell motility protein 1
+Bacterial invasion of epithelial cells	K18985		engulfment and cell motility protein 2
+Bacterial invasion of epithelial cells	K19241		engulfment and cell motility protein 3
+Bacterial invasion of epithelial cells	K04513		"Ras homolog gene family, member A"
+Bacterial invasion of epithelial cells	K05700		vinculin
+Pathogenic Escherichia coli infection	K11006  		shiga toxin subunit A
+Pathogenic Escherichia coli infection	K11007  		shiga toxin subunit B
+Pathogenic Escherichia coli infection	K06856  		immunoglobulin heavy chain
+Pathogenic Escherichia coli infection	K23648  		T3SS secreted effector ADP-ribosyltransferase EspJ
+Pathogenic Escherichia coli infection	K05704  		tyrosine-protein kinase Src [EC:2.7.10.2]
+Pathogenic Escherichia coli infection	K06472  		low affinity immunoglobulin gamma Fc receptor II-a
+Pathogenic Escherichia coli infection	K04392  		Ras-related C3 botulinum toxin substrate 1
+Pathogenic Escherichia coli infection	K18441  		cytohesin
+Pathogenic Escherichia coli infection	K07941  		ADP-ribosylation factor 6
+Pathogenic Escherichia coli infection	K07937  		ADP-ribosylation factor 1/2
+Pathogenic Escherichia coli infection	K05750  		NCK-associated protein 1
+Pathogenic Escherichia coli infection	K05749  		cytoplasmic FMR1 interacting protein
+Pathogenic Escherichia coli infection	K23649  		abl interactor 1
+Pathogenic Escherichia coli infection	K05752  		chromosome 3 open reading frame 10
+Pathogenic Escherichia coli infection	K05753  		"WAS protein family, member 1"
+Pathogenic Escherichia coli infection	K05748  		"WAS protein family, member 2"
+Pathogenic Escherichia coli infection	K06083  		"WAS protein family, member 3"
+Pathogenic Escherichia coli infection	K17260  		actin-related protein 2
+Pathogenic Escherichia coli infection	K18584  		actin-related protein 3
+Pathogenic Escherichia coli infection	K05757  		"actin related protein 2/3 complex, subunit 1A/1B"
+Pathogenic Escherichia coli infection	K05758  		"actin related protein 2/3 complex, subunit 2"
+Pathogenic Escherichia coli infection	K05756  		"actin related protein 2/3 complex, subunit 3"
+Pathogenic Escherichia coli infection	K05755  		"actin related protein 2/3 complex, subunit 4"
+Pathogenic Escherichia coli infection	K05754  		"actin related protein 2/3 complex, subunit 5"
+Pathogenic Escherichia coli infection	K05692  		actin beta/gamma 1
+Pathogenic Escherichia coli infection	K12330  		Rho guanine nucleotide exchange factor 1
+Pathogenic Escherichia coli infection	K04513  		"Ras homolog gene family, member A"
+Pathogenic Escherichia coli infection	K04393  		cell division control protein 42
+Pathogenic Escherichia coli infection	K12785  		LEE-encoded effector EspG
+Pathogenic Escherichia coli infection	K12788  		LEE-encoded effector EspH
+Pathogenic Escherichia coli infection	K10356  		myosin I
+Pathogenic Escherichia coli infection	K10357  		myosin V
+Pathogenic Escherichia coli infection	K10358  		myosin VI
+Pathogenic Escherichia coli infection	K12559  		myosin X
+Pathogenic Escherichia coli infection	K10352  		myosin heavy chain 9/10/11/14
+Pathogenic Escherichia coli infection	K23650  		LEE-encoded effector EspB
+Pathogenic Escherichia coli infection	K23651  		T3SS secreted effector EspT
+Pathogenic Escherichia coli infection	K23652  		T3SS secreted effector EspW
+Pathogenic Escherichia coli infection	K12787  		LEE-encoded effector Map
+Pathogenic Escherichia coli infection	K23612  		neural Wiskott-Aldrich syndrome protein
+Pathogenic Escherichia coli infection	K13365  		sodium/hydrogen exchange regulatory cofactor NHE-RF1
+Pathogenic Escherichia coli infection	K08007  		ezrin
+Pathogenic Escherichia coli infection	K01313  		coagulation factor II (thrombin) [EC:3.4.21.5]
+Pathogenic Escherichia coli infection	K04289  		lysophosphatidic acid receptor 1
+Pathogenic Escherichia coli infection	K04291  		lysophosphatidic acid receptor 2
+Pathogenic Escherichia coli infection	K04275  		lysophosphatidic acid receptor 4
+Pathogenic Escherichia coli infection	K08390  		lysophosphatidic acid receptor 5
+Pathogenic Escherichia coli infection	K03914  		coagulation factor II (thrombin) receptor
+Pathogenic Escherichia coli infection	K04346  		guanine nucleotide-binding protein subunit alpha-12
+Pathogenic Escherichia coli infection	K04639  		guanine nucleotide-binding protein subunit alpha-13
+Pathogenic Escherichia coli infection	K12331  		Rho guanine nucleotide exchange factor 11
+Pathogenic Escherichia coli infection	K07532  		Rho guanine nucleotide exchange factor 12
+Pathogenic Escherichia coli infection	K12809  		T3SS secreted effector EspG-like protein
+Pathogenic Escherichia coli infection	K07374  		tubulin alpha
+Pathogenic Escherichia coli infection	K07375  		tubulin beta
+Pathogenic Escherichia coli infection	K12791  		Rho guanine nucleotide exchange factor 2
+Pathogenic Escherichia coli infection	K23653  		T3SS effector EspM
+Pathogenic Escherichia coli infection	K04514  		Rho-associated protein kinase 1 [EC:2.7.11.1]
+Pathogenic Escherichia coli infection	K17388  		Rho-associated protein kinase 2 [EC:2.7.11.1]
+Pathogenic Escherichia coli infection	K12790  		intimin
+Pathogenic Escherichia coli infection	K12784  		translocated intimin receptor
+Pathogenic Escherichia coli infection	K05703  		tyrosine-protein kinase Fyn [EC:2.7.10.2]
+Pathogenic Escherichia coli infection	K06619  		abelson tyrosine-protein kinase 1 [EC:2.7.10.2]
+Pathogenic Escherichia coli infection	K20127  		BAI1-associated protein 2-like protein 1
+Pathogenic Escherichia coli infection	K05627  		BAI1-associated protein 2
+Pathogenic Escherichia coli infection	K12789  		Tir-cytoskeleton coupling protein
+Pathogenic Escherichia coli infection	K07365  		NCK adaptor protein 1
+Pathogenic Escherichia coli infection	K19862  		NCK adaptor protein 2
+Pathogenic Escherichia coli infection	K19475  		WAS/WASL-interacting protein
+Pathogenic Escherichia coli infection	K06106  		cortactin
+Pathogenic Escherichia coli infection	K11294  		nucleolin
+Pathogenic Escherichia coli infection	K05719  		integrin beta 1
+Pathogenic Escherichia coli infection	K12810  		major structural subunit of bundle-forming pilus
+Pathogenic Escherichia coli infection	K04519  		interleukin 1 beta
+Pathogenic Escherichia coli infection	K04386  		interleukin 1 receptor type I
+Pathogenic Escherichia coli infection	K10160  		toll-like receptor 4
+Pathogenic Escherichia coli infection	K05403  		toll-interleukin 1 receptor (TIR) domain-containing adaptor protein
+Pathogenic Escherichia coli infection	K04729  		myeloid differentiation primary response protein MyD88
+Pathogenic Escherichia coli infection	K10168  		toll-like receptor 5
+Pathogenic Escherichia coli infection	K04730  		interleukin-1 receptor-associated kinase 1 [EC:2.7.11.1]
+Pathogenic Escherichia coli infection	K04733  		interleukin-1 receptor-associated kinase 4 [EC:2.7.11.1]
+Pathogenic Escherichia coli infection	K05697  		tyrosine-protein phosphatase non-receptor type 6 [EC:3.1.3.48]
+Pathogenic Escherichia coli infection	K07293  		tyrosine-protein phosphatase non-receptor type 11 [EC:3.1.3.48]
+Pathogenic Escherichia coli infection	K03175  		TNF receptor-associated factor 6 [EC:2.3.2.27]
+Pathogenic Escherichia coli infection	K03156  		"tumor necrosis factor superfamily, member 2"
+Pathogenic Escherichia coli infection	K03158  		tumor necrosis factor receptor superfamily member 1A
+Pathogenic Escherichia coli infection	K03171  		tumor necrosis factor receptor type 1-associated DEATH domain protein
+Pathogenic Escherichia coli infection	K00134  		glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12]
+Pathogenic Escherichia coli infection	K03173  		TNF receptor-associated factor 2 [EC:2.3.2.27]
+Pathogenic Escherichia coli infection	K02861  		receptor-interacting serine/threonine-protein kinase 1 [EC:2.7.11.1]
+Pathogenic Escherichia coli infection	K04427  		mitogen-activated protein kinase kinase kinase 7 [EC:2.7.11.25]
+Pathogenic Escherichia coli infection	K04403  		TAK1-binding protein 1
+Pathogenic Escherichia coli infection	K04404  		TAK1-binding protein 2
+Pathogenic Escherichia coli infection	K12793  		TAK1-binding protein 3
+Pathogenic Escherichia coli infection	K07210  		inhibitor of nuclear factor kappa-B kinase subunit gamma
+Pathogenic Escherichia coli infection	K04467  		inhibitor of nuclear factor kappa-B kinase subunit alpha [EC:2.7.11.10]
+Pathogenic Escherichia coli infection	K07209  		inhibitor of nuclear factor kappa-B kinase subunit beta [EC:2.7.11.10]
+Pathogenic Escherichia coli infection	K04734  		NF-kappa-B inhibitor alpha
+Pathogenic Escherichia coli infection	K02581  		NF-kappa-B inhibitor beta
+Pathogenic Escherichia coli infection	K02580  		nuclear factor NF-kappa-B p105 subunit
+Pathogenic Escherichia coli infection	K04735  		transcription factor p65
+Pathogenic Escherichia coli infection	K02985  		small subunit ribosomal protein S3e
+Pathogenic Escherichia coli infection	K04371  		mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+Pathogenic Escherichia coli infection	K04440  		mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]
+Pathogenic Escherichia coli infection	K04441  		p38 MAP kinase [EC:2.7.11.24]
+Pathogenic Escherichia coli infection	K04379  		proto-oncogene protein c-fos
+Pathogenic Escherichia coli infection	K04448  		transcription factor AP-1
+Pathogenic Escherichia coli infection	K05405  		interleukin 6
+Pathogenic Escherichia coli infection	K10030  		interleukin 8
+Pathogenic Escherichia coli infection	K23654  		T3SS secreted effector NleE
+Pathogenic Escherichia coli infection	K16042  		non-LEE-encoded effector NleH
+Pathogenic Escherichia coli infection	K23655  		T3SS secreted effector NleC
+Pathogenic Escherichia coli infection	K23656  		T3SS secreted effector NleD
+Pathogenic Escherichia coli infection	K23657  		T3SS secreted effector NleB
+Pathogenic Escherichia coli infection	K04721  		tumor necrosis factor ligand superfamily member 10
+Pathogenic Escherichia coli infection	K04722  		tumor necrosis factor receptor superfamily member 10A/B
+Pathogenic Escherichia coli infection	K04389  		tumor necrosis factor ligand superfamily member 6
+Pathogenic Escherichia coli infection	K04390  		tumor necrosis factor receptor superfamily member 6
+Pathogenic Escherichia coli infection	K02373  		FAS-associated death domain protein
+Pathogenic Escherichia coli infection	K04398  		caspase 8 [EC:3.4.22.61]
+Pathogenic Escherichia coli infection	K21889  		Bax inhibitor 1
+Pathogenic Escherichia coli infection	K14021  		Bcl-2 homologous antagonist/killer
+Pathogenic Escherichia coli infection	K02159  		apoptosis regulator BAX
+Pathogenic Escherichia coli infection	K08738  		cytochrome c
+Pathogenic Escherichia coli infection	K04399  		caspase 9 [EC:3.4.22.62]
+Pathogenic Escherichia coli infection	K02187  		caspase 3 [EC:3.4.22.56]
+Pathogenic Escherichia coli infection	K04397  		caspase 7 [EC:3.4.22.60]
+Pathogenic Escherichia coli infection	K06185  		"ATP-binding cassette, subfamily F, member 2"
+Pathogenic Escherichia coli infection	K23658  		T3SS secreted effector NleF
+Pathogenic Escherichia coli infection	K23659  		LEE-encoded effector EspZ
+Pathogenic Escherichia coli infection	K23660  		cell inhibiting factor
+Pathogenic Escherichia coli infection	K12786  		LEE-encoded effector EspF
+Pathogenic Escherichia coli infection	K03221  		type III secretion protein F
+Pathogenic Escherichia coli infection	K22487  		type III secretion system protein
+Pathogenic Escherichia coli infection	K23661  		type III secretion system protein
+Pathogenic Escherichia coli infection	K12807  		baculoviral IAP repeat-containing protein 1
+Pathogenic Escherichia coli infection	K22265  		"NACHT, LRR and PYD domains-containing protein 4"
+Pathogenic Escherichia coli infection	K12800  		"NACHT, LRR and PYD domains-containing protein 3"
+Pathogenic Escherichia coli infection	K12799  		apoptosis-associated speck-like protein containing a CARD
+Pathogenic Escherichia coli infection	K01370  		caspase 1 [EC:3.4.22.36]
+Pathogenic Escherichia coli infection	K04394  		caspase 4 [EC:3.4.22.57 3.4.22.64]
+Pathogenic Escherichia coli infection	K05482  		interleukin 18
+Pathogenic Escherichia coli infection	K16041  		non-LEE-encoded effector NleA
+Pathogenic Escherichia coli infection	K04409  		p21-activated kinase 1 [EC:2.7.11.1]
+Pathogenic Escherichia coli infection	K04410  		p21-activated kinase 2 [EC:2.7.11.1]
+Pathogenic Escherichia coli infection	K05733  		p21-activated kinase 3 [EC:2.7.11.1]
+Pathogenic Escherichia coli infection	K07874  		Ras-related protein Rab-1A
+Pathogenic Escherichia coli infection	K14007  		protein transport protein SEC24
+Pathogenic Escherichia coli infection	K20352  		p24 family protein delta-1
+Pathogenic Escherichia coli infection	K06088  		occludin
+Pathogenic Escherichia coli infection	K06087  		claudin
+Pathogenic Escherichia coli infection	K05701  		tight junction protein 1
+Tuberculosis	K03156  		"tumor necrosis factor superfamily, member 2"
+Tuberculosis	K03158  		tumor necrosis factor receptor superfamily member 1A
+Tuberculosis	K03171  		tumor necrosis factor receptor type 1-associated DEATH domain protein
+Tuberculosis	K02373  		FAS-associated death domain protein
+Tuberculosis	K04398  		caspase 8 [EC:3.4.22.61]
+Tuberculosis	K04400  		caspase 10 [EC:3.4.22.63]
+Tuberculosis	K02187  		caspase 3 [EC:3.4.22.56]
+Tuberculosis	K04726  		BH3 interacting domain death agonist
+Tuberculosis	K02159  		apoptosis regulator BAX
+Tuberculosis	K08738  		cytochrome c
+Tuberculosis	K04399  		caspase 9 [EC:3.4.22.62]
+Tuberculosis	K02084  		apoptotic protease-activating factor
+Tuberculosis	K04456  		RAC serine/threonine-protein kinase [EC:2.7.11.1]
+Tuberculosis	K02158  		Bcl-2-antagonist of cell death
+Tuberculosis	K02161  		apoptosis regulator Bcl-2
+Tuberculosis	K04515  		calcium/calmodulin-dependent protein kinase (CaM kinase) II [EC:2.7.11.17]
+Tuberculosis	K04687  		interferon gamma
+Tuberculosis	K05132  		interferon gamma receptor 1
+Tuberculosis	K05133  		interferon gamma receptor 2
+Tuberculosis	K11217  		Janus kinase 1 [EC:2.7.10.2]
+Tuberculosis	K04447  		Janus kinase 2 [EC:2.7.10.2]
+Tuberculosis	K11220  		signal transducer and activator of transcription 1
+Tuberculosis	K08060  		MHC class II transactivator [EC:2.7.11.1]
+Tuberculosis	K08061  		regulatory factor X 5
+Tuberculosis	K08062  		regulatory factor X-associated ankyrin-containing protein
+Tuberculosis	K08063  		regulatory factor X-associated protein
+Tuberculosis	K08064  		"nuclear transcription factor Y, alpha"
+Tuberculosis	K08065  		nuclear transcription Y subunit beta
+Tuberculosis	K08066  		"nuclear transcription factor Y, gamma"
+Tuberculosis	K05870  		cyclic AMP-responsive element-binding protein 1
+Tuberculosis	K06752  		MHC class II antigen
+Tuberculosis	K06505  		CD74 antigen
+Tuberculosis	K04498  		E1A/CREB-binding protein [EC:2.3.1.48]
+Tuberculosis	K05443  		interleukin 10
+Tuberculosis	K05134  		interleukin 10 receptor alpha
+Tuberculosis	K05135  		interleukin 10 receptor beta
+Tuberculosis	K01368  		cathepsin S [EC:3.4.22.27]
+Tuberculosis	K10059  		C-type lectin domain family 4 member E
+Tuberculosis	K07983  		high affinity immunoglobulin epsilon receptor subunit gamma
+Tuberculosis	K10074  		C-type lectin domain family 7 member A
+Tuberculosis	K05704  		tyrosine-protein kinase Src [EC:2.7.10.2]
+Tuberculosis	K05855  		spleen tyrosine kinase [EC:2.7.10.2]
+Tuberculosis	K12794  		caspase recruitment domain-containing protein 9
+Tuberculosis	K07369  		mucosa-associated lymphoid tissue lymphoma translocation protein 1 [EC:3.4.22.-]
+Tuberculosis	K07368  		B-cell CLL/lymphoma 10
+Tuberculosis	K14952  		UDP-MurNAc hydroxylase
+Tuberculosis	K10165  		nucleotide-binding oligomerization domain-containing protein 2
+Tuberculosis	K08846  		receptor-interacting serine/threonine-protein kinase 2 [EC:2.7.11.1]
+Tuberculosis	K14953  		ipoprotein LpqH
+Tuberculosis	K14954  		lipoprotein LprG
+Tuberculosis	K14955  		lipoprotein LprA
+Tuberculosis	K02040  		phosphate transport system substrate-binding protein
+Tuberculosis	K04043  		molecular chaperone DnaK
+Tuberculosis	K04077  		chaperonin GroEL [EC:5.6.1.7]
+Tuberculosis	K14956  		6 kDa early secretory antigenic target
+Tuberculosis	K05399  		lipopolysaccharide-binding protein
+Tuberculosis	K10159  		toll-like receptor 2
+Tuberculosis	K05398  		toll-like receptor 1
+Tuberculosis	K10169  		toll-like receptor 6
+Tuberculosis	K10160  		toll-like receptor 4
+Tuberculosis	K04391  		monocyte differentiation antigen CD14
+Tuberculosis	K05403  		toll-interleukin 1 receptor (TIR) domain-containing adaptor protein
+Tuberculosis	K04729  		myeloid differentiation primary response protein MyD88
+Tuberculosis	K04733  		interleukin-1 receptor-associated kinase 4 [EC:2.7.11.1]
+Tuberculosis	K04730  		interleukin-1 receptor-associated kinase 1 [EC:2.7.11.1]
+Tuberculosis	K04731  		interleukin-1 receptor-associated kinase 2 [EC:2.7.11.1]
+Tuberculosis	K03175  		TNF receptor-associated factor 6 [EC:2.3.2.27]
+Tuberculosis	K02580  		nuclear factor NF-kappa-B p105 subunit
+Tuberculosis	K04735  		transcription factor p65
+Tuberculosis	K04441  		p38 MAP kinase [EC:2.7.11.24]
+Tuberculosis	K04371  		mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+Tuberculosis	K04440  		mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]
+Tuberculosis	K13241  		"nitric-oxide synthase, inducible [EC:1.14.13.39]"
+Tuberculosis	K05405  		interleukin 6
+Tuberculosis	K05406  		interleukin 12A
+Tuberculosis	K05425  		interleukin 12B
+Tuberculosis	K05482  		interleukin 18
+Tuberculosis	K05426  		interleukin 23 subunit alpha
+Tuberculosis	K04383  		interleukin 1 alpha
+Tuberculosis	K04519  		interleukin 1 beta
+Tuberculosis	K10048  		"CCAAT/enhancer binding protein (C/EBP), beta"
+Tuberculosis	K10049  		"CCAAT/enhancer binding protein (C/EBP), gamma"
+Tuberculosis	K10161  		toll-like receptor 9
+Tuberculosis	K05414  		interferon alpha
+Tuberculosis	K05415  		interferon beta
+Tuberculosis	K06563  		C-type lectin domain family 4 member L/M
+Tuberculosis	K07532  		Rho guanine nucleotide exchange factor 12
+Tuberculosis	K04513  		"Ras homolog gene family, member A"
+Tuberculosis	K14957  		lymphocyte-specific protein 1
+Tuberculosis	K08862  		polo-like kinase 3 [EC:2.7.11.21]
+Tuberculosis	K14958  		kinase suppressor of Ras 1
+Tuberculosis	K04366  		RAF proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]
+Tuberculosis	K13375  		transforming growth factor beta-1
+Tuberculosis	K13376  		transforming growth factor beta-2
+Tuberculosis	K13377  		transforming growth factor beta-3
+Tuberculosis	K07438  		calcidiol 1-monooxygenase (25-hydroxyvitamin D3 1alpha-hydroxylase) [EC:1.14.15.18]
+Tuberculosis	K08539  		vitamin D3 receptor
+Tuberculosis	K13916  		cathelicidin antimicrobial peptide
+Tuberculosis	K03990  		complement component 3
+Tuberculosis	K04011  		complement component (3b/4b) receptor 1
+Tuberculosis	K06462  		integrin alpha X
+Tuberculosis	K06464  		integrin beta 2
+Tuberculosis	K06461  		integrin alpha M
+Tuberculosis	K06560  		"mannose receptor, C type"
+Tuberculosis	K04718  		sphingosine kinase [EC:2.7.1.91]
+Tuberculosis	K02183  		calmodulin
+Tuberculosis	K00914  		phosphatidylinositol 3-kinase [EC:2.7.1.137]
+Tuberculosis	K07887  		Ras-related protein Rab-5A
+Tuberculosis	K07888  		Ras-related protein Rab-5B
+Tuberculosis	K07889  		Ras-related protein Rab-5C
+Tuberculosis	K12478  		early endosome antigen 1
+Tuberculosis	K07897  		Ras-related protein Rab-7A
+Tuberculosis	K01379  		cathepsin D [EC:3.4.23.5]
+Tuberculosis	K02154  		V-type H+-transporting ATPase subunit a
+Tuberculosis	K02146  		V-type H+-transporting ATPase subunit d
+Tuberculosis	K02144  		V-type H+-transporting ATPase subunit H
+Tuberculosis	K03662  		V-type H+-transporting ATPase S1 subunit
+Tuberculosis	K02155  		V-type H+-transporting ATPase 16kDa proteolipid subunit
+Tuberculosis	K03661  		V-type H+-transporting ATPase 21kDa proteolipid subunit
+Tuberculosis	K06528  		lysosomal-associated membrane protein 1/2
+Tuberculosis	K21302  		phosphatidylinositol-3-phosphatase [EC:3.1.3.64]
+Tuberculosis	K04348  		serine/threonine-protein phosphatase 2B catalytic subunit [EC:3.1.3.16]
+Tuberculosis	K06268  		serine/threonine-protein phosphatase 2B regulatory subunit
+Tuberculosis	K13882  		coronin-1A
+Tuberculosis	K14949  		serine/threonine-protein kinase PknG [EC:2.7.11.1]
+Tuberculosis	K06856  		immunoglobulin heavy chain
+Tuberculosis	K06498  		high affinity immunoglobulin gamma Fc receptor I
+Tuberculosis	K06472  		low affinity immunoglobulin gamma Fc receptor II-a
+Tuberculosis	K12560  		low affinity immunoglobulin gamma Fc receptor II-b
+Tuberculosis	K16824  		low affinity immunoglobulin gamma Fc receptor II-c
+Tuberculosis	K06463  		low affinity immunoglobulin gamma Fc receptor III
+Staphylococcus aureus infection	K14192  		clumping factor B
+Staphylococcus aureus infection	K07604  		"type I keratin, acidic"
+Staphylococcus aureus infection	K03905  		fibrinogen gamma chain
+Staphylococcus aureus infection	K14193  		iron-regulated surface determinant protein A
+Staphylococcus aureus infection	K14194  		serine-aspartate repeat-containing protein C/D/E
+Staphylococcus aureus infection	K14195  		surface protein G
+Staphylococcus aureus infection	K03990  		complement component 3
+Staphylococcus aureus infection	K01335  		complement factor B [EC:3.4.21.47]
+Staphylococcus aureus infection	K01334  		complement factor D [EC:3.4.21.46]
+Staphylococcus aureus infection	K04004  		complement factor H
+Staphylococcus aureus infection	K03991  		mannose-binding lectin
+Staphylococcus aureus infection	K03992  		mannan-binding lectin serine protease 1 [EC:3.4.21.-]
+Staphylococcus aureus infection	K03993  		mannan-binding lectin serine protease 2 [EC:3.4.21.104]
+Staphylococcus aureus infection	K06856  		immunoglobulin heavy chain
+Staphylococcus aureus infection	K03986  		complement C1q subcomponent subunit A
+Staphylococcus aureus infection	K03987  		complement C1q subcomponent subunit B
+Staphylococcus aureus infection	K03988  		complement C1q subcomponent subunit C
+Staphylococcus aureus infection	K01330  		"complement component 1, r subcomponent [EC:3.4.21.41]"
+Staphylococcus aureus infection	K01331  		"complement component 1, s subcomponent [EC:3.4.21.42]"
+Staphylococcus aureus infection	K01332  		complement component 2 [EC:3.4.21.43]
+Staphylococcus aureus infection	K03989  		complement component 4
+Staphylococcus aureus infection	K03994  		complement component 5
+Staphylococcus aureus infection	K04009  		C3a anaphylatoxin chemotactic receptor
+Staphylococcus aureus infection	K04010  		C5a anaphylatoxin chemotactic receptor 1
+Staphylococcus aureus infection	K06498  		high affinity immunoglobulin gamma Fc receptor I
+Staphylococcus aureus infection	K06472  		low affinity immunoglobulin gamma Fc receptor II-a
+Staphylococcus aureus infection	K12560  		low affinity immunoglobulin gamma Fc receptor II-b
+Staphylococcus aureus infection	K16824  		low affinity immunoglobulin gamma Fc receptor II-c
+Staphylococcus aureus infection	K06463  		low affinity immunoglobulin gamma Fc receptor III
+Staphylococcus aureus infection	K06513  		CD89 antigen
+Staphylococcus aureus infection	K04173  		formyl peptide receptor-like
+Staphylococcus aureus infection	K04172  		formyl peptide receptor 1
+Staphylococcus aureus infection	K01315  		plasminogen [EC:3.4.21.7]
+Staphylococcus aureus infection	K01333  		complement factor I [EC:3.4.21.45]
+Staphylococcus aureus infection	K14196  		immunoglobulin G-binding protein A
+Staphylococcus aureus infection	K14197  		immunoglobulin G-binding protein Sbi
+Staphylococcus aureus infection	K14198  		staphylokinase
+Staphylococcus aureus infection	K14199  		staphylococcal complement inhibitor
+Staphylococcus aureus infection	K14200  		fibrinogen-binding protein
+Staphylococcus aureus infection	K14201  		clumping factor A
+Staphylococcus aureus infection	K23586  		superantigen-like protein 7
+Staphylococcus aureus infection	K14202  		chemotaxis inhibitory protein
+Staphylococcus aureus infection	K14203  		FPRL1 inhibitory protein
+Staphylococcus aureus infection	K06544  		selectin P ligand
+Staphylococcus aureus infection	K06496  		"selectin, platelet"
+Staphylococcus aureus infection	K23587  		superantigen-like protein 5/11
+Staphylococcus aureus infection	K14204  		protein Map
+Staphylococcus aureus infection	K06490  		intercellular adhesion molecule 1
+Staphylococcus aureus infection	K05718  		integrin alpha L
+Staphylococcus aureus infection	K06461  		integrin alpha M
+Staphylococcus aureus infection	K06464  		integrin beta 2
+Staphylococcus aureus infection	K23125  		beta-defensin 1
+Staphylococcus aureus infection	K21100  		beta-defensin 4
+Staphylococcus aureus infection	K23126  		beta-defensin 103
+Staphylococcus aureus infection	K05230  		"defensin, alpha"
+Staphylococcus aureus infection	K13916  		cathelicidin antimicrobial peptide
+Staphylococcus aureus infection	K19079  		cationic antimicrobial peptide transport system ATP-binding protein
+Staphylococcus aureus infection	K19080  		cationic antimicrobial peptide transport system permease protein
+Staphylococcus aureus infection	K03367  		D-alanine--poly(phosphoribitol) ligase subunit 1 [EC:6.1.1.13]
+Staphylococcus aureus infection	K03739  		membrane protein involved in D-alanine export
+Staphylococcus aureus infection	K14188  		D-alanine--poly(phosphoribitol) ligase subunit 2 [EC:6.1.1.13]
+Staphylococcus aureus infection	K03740  		D-alanine transfer protein
+Staphylococcus aureus infection	K14205  		phosphatidylglycerol lysyltransferase [EC:2.3.2.3]
+Staphylococcus aureus infection	K01401  		aureolysin [EC:3.4.24.29]
+Staphylococcus aureus infection	K11038  		leukocidin/hemolysin toxin family protein
+Staphylococcus aureus infection	K11040  		staphylococcal enterotoxin
+Staphylococcus aureus infection	K11043  		toxic shock syndrome toxin-1
+Staphylococcus aureus infection	K11041  		exfoliative toxin A/B
+Staphylococcus aureus infection	K07596  		desmoglein 1
+Staphylococcus aureus infection	K10784  		T cell receptor alpha chain V region
+Staphylococcus aureus infection	K10785  		T-cell receptor beta chain V region
+Staphylococcus aureus infection	K06752  		MHC class II antigen
+Staphylococcus aureus infection	K04279  		platelet-activating factor receptor
+Staphylococcus aureus infection	K05443  		interleukin 10
+Pertussis	K12681  		pertactin
+Pertussis	K07345  		major type 1 subunit fimbrin (pilin)
+Pertussis	K07347  		outer membrane usher protein
+Pertussis	K06484  		integrin alpha 5
+Pertussis	K05719  		integrin beta 1
+Pertussis	K07326  		hemolysin activation/secretion protein
+Pertussis	K12688  		autotransporter serine protease [EC:3.4.21.-]
+Pertussis	K15125  		filamentous hemagglutinin
+Pertussis	K06461  		integrin alpha M
+Pertussis	K06464  		integrin beta 2
+Pertussis	K11004  		"ATP-binding cassette, subfamily B, bacterial HlyB/CyaB"
+Pertussis	K11003  		"membrane fusion protein, hemolysin D"
+Pertussis	K12340  		outer membrane protein
+Pertussis	K07389  		cytolysin-activating lysine-acyltransferase [EC:2.3.1.-]
+Pertussis	K22944  		bifunctional hemolysin/adenylate cyclase [EC:4.6.1.1]
+Pertussis	K02183  		calmodulin
+Pertussis	K04513  		"Ras homolog gene family, member A"
+Pertussis	K05765  		cofilin
+Pertussis	K02187  		caspase 3 [EC:3.4.22.56]
+Pertussis	K04397  		caspase 7 [EC:3.4.22.60]
+Pertussis	K01370  		caspase 1 [EC:3.4.22.36]
+Pertussis	K12799  		apoptosis-associated speck-like protein containing a CARD
+Pertussis	K12800  		"NACHT, LRR and PYD domains-containing protein 3"
+Pertussis	K04519  		interleukin 1 beta
+Pertussis	K12683  		serum resistance protein
+Pertussis	K03986  		complement C1q subcomponent subunit A
+Pertussis	K03987  		complement C1q subcomponent subunit B
+Pertussis	K03988  		complement C1q subcomponent subunit C
+Pertussis	K01330  		"complement component 1, r subcomponent [EC:3.4.21.41]"
+Pertussis	K01331  		"complement component 1, s subcomponent [EC:3.4.21.42]"
+Pertussis	K01332  		complement component 2 [EC:3.4.21.43]
+Pertussis	K03989  		complement component 4
+Pertussis	K03990  		complement component 3
+Pertussis	K03994  		complement component 5
+Pertussis	K04001  		C1 inhibitor
+Pertussis	K04002  		complement component 4 binding protein alpha
+Pertussis	K04003  		complement component 4 binding protein beta
+Pertussis	K12973  		lipid IVA palmitoyltransferase [EC:2.3.1.251]
+Pertussis	K05400  		lymphocyte antigen 96
+Pertussis	K10160  		toll-like receptor 4
+Pertussis	K04391  		monocyte differentiation antigen CD14
+Pertussis	K05403  		toll-interleukin 1 receptor (TIR) domain-containing adaptor protein
+Pertussis	K04729  		myeloid differentiation primary response protein MyD88
+Pertussis	K04733  		interleukin-1 receptor-associated kinase 4 [EC:2.7.11.1]
+Pertussis	K04730  		interleukin-1 receptor-associated kinase 1 [EC:2.7.11.1]
+Pertussis	K03175  		TNF receptor-associated factor 6 [EC:2.3.2.27]
+Pertussis	K02580  		nuclear factor NF-kappa-B p105 subunit
+Pertussis	K04735  		transcription factor p65
+Pertussis	K05409  		TRIF-related adaptor molecule
+Pertussis	K05842  		toll-like receptor adapter molecule 1
+Pertussis	K05411  		interferon regulatory factor 3
+Pertussis	K04441  		p38 MAP kinase [EC:2.7.11.24]
+Pertussis	K04440  		mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]
+Pertussis	K04371  		mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+Pertussis	K04379  		proto-oncogene protein c-fos
+Pertussis	K04448  		transcription factor AP-1
+Pertussis	K05405  		interleukin 6
+Pertussis	K05406  		interleukin 12A
+Pertussis	K05425  		interleukin 12B
+Pertussis	K05426  		interleukin 23 subunit alpha
+Pertussis	K03156  		"tumor necrosis factor superfamily, member 2"
+Pertussis	K05443  		interleukin 10
+Pertussis	K09444  		interferon regulatory factor 1
+Pertussis	K10155  		interferon regulatory factor 8
+Pertussis	K10067  		pulmonary surfactant-associated protein A
+Pertussis	K11023  		pertussis toxin subunit 1 [EC:2.4.2.-]
+Pertussis	K11024  		pertussis toxin subunit 2
+Pertussis	K11025  		pertussis toxin subunit 3
+Pertussis	K11026  		pertussis toxin subunit 4
+Pertussis	K11027  		pertussis toxin subunit 5
+Pertussis	K04630  		guanine nucleotide-binding protein G(i) subunit alpha
+Pertussis	K10030  		interleukin 8
+Pertussis	K05506  		C-X-C motif chemokine 5/6
+Pertussis	K08727  		nucleotide-binding oligomerization domain-containing protein 1
+Pertussis	K04383  		interleukin 1 alpha
+Pertussis	K13241  		"nitric-oxide synthase, inducible [EC:1.14.13.39]"
+Pertussis	K15126  		type III secretion system cytotoxic effector protein
+Pertussis	K07679  		"two-component system, NarL family, sensor histidine kinase EvgS [EC:2.7.13.3]"
+Pertussis	K07690  		"two-component system, NarL family, response regulator EvgA"
+Yersinia infection	K13735  		adhesin/invasin
+Yersinia infection	K12341  		adhesin YadA
+Yersinia infection	K05717  		fibronectin 1
+Yersinia infection	K06483  		integrin alpha 4
+Yersinia infection	K06484  		integrin alpha 5
+Yersinia infection	K05719  		integrin beta 1
+Yersinia infection	K07863  		"Ras homolog gene family, member G"
+Yersinia infection	K05704  		tyrosine-protein kinase Src [EC:2.7.10.2]
+Yersinia infection	K05725  		focal adhesion kinase 1 [EC:2.7.10.2]
+Yersinia infection	K05871  		focal adhesion kinase 2 [EC:2.7.10.2]
+Yersinia infection	K04438  		C-crk adapter molecule crk
+Yersinia infection	K05726  		breast cancer anti-estrogen resistance 1
+Yersinia infection	K12366  		engulfment and cell motility protein 1
+Yersinia infection	K18985  		engulfment and cell motility protein 2
+Yersinia infection	K13708  		dedicator of cytokinesis protein 1
+Yersinia infection	K06856  		immunoglobulin heavy chain
+Yersinia infection	K06472  		low affinity immunoglobulin gamma Fc receptor II-a
+Yersinia infection	K04392  		Ras-related C3 botulinum toxin substrate 1
+Yersinia infection	K07860  		Ras-related C3 botulinum toxin substrate 2
+Yersinia infection	K07861  		Ras-related C3 botulinum toxin substrate 3
+Yersinia infection	K00889  		1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]
+Yersinia infection	K07941  		ADP-ribosylation factor 6
+Yersinia infection	K23612  		neural Wiskott-Aldrich syndrome protein
+Yersinia infection	K17260  		actin-related protein 2
+Yersinia infection	K18584  		actin-related protein 3
+Yersinia infection	K05757  		"actin related protein 2/3 complex, subunit 1A/1B"
+Yersinia infection	K05758  		"actin related protein 2/3 complex, subunit 2"
+Yersinia infection	K05756  		"actin related protein 2/3 complex, subunit 3"
+Yersinia infection	K05755  		"actin related protein 2/3 complex, subunit 4"
+Yersinia infection	K05754  		"actin related protein 2/3 complex, subunit 5"
+Yersinia infection	K05692  		actin beta/gamma 1
+Yersinia infection	K19475  		WAS/WASL-interacting protein
+Yersinia infection	K05627  		BAI1-associated protein 2
+Yersinia infection	K05748  		"WAS protein family, member 2"
+Yersinia infection	K05760  		paxillin
+Yersinia infection	K12487  		G protein-coupled receptor kinase interactor 2
+Yersinia infection	K13710  		Rho guanine nucleotide exchange factor 7
+Yersinia infection	K04393  		cell division control protein 42
+Yersinia infection	K05747  		Wiskott-Aldrich syndrome protein
+Yersinia infection	K04634  		guanine nucleotide-binding protein G(q) subunit alpha
+Yersinia infection	K07532  		Rho guanine nucleotide exchange factor 12
+Yersinia infection	K12330  		Rho guanine nucleotide exchange factor 1
+Yersinia infection	K21072  		A-kinase anchor protein 28
+Yersinia infection	K04513  		"Ras homolog gene family, member A"
+Yersinia infection	K04514  		Rho-associated protein kinase 1 [EC:2.7.11.1]
+Yersinia infection	K17388  		Rho-associated protein kinase 2 [EC:2.7.11.1]
+Yersinia infection	K17698  		FYN binding protein
+Yersinia infection	K23471  		src kinase-associated phosphoprotein 2
+Yersinia infection	K23472  		serine/threonine protein kinase YpkA [EC:2.7.11.1]
+Yersinia infection	K08599  		YopT peptidase [EC:3.4.22.-]
+Yersinia infection	K23473  		outer membrane virulence protein YopE
+Yersinia infection	K23474  		tyrosine-protein phosphatase YopH [EC:3.1.3.48]
+Yersinia infection	K23475  		transloator
+Yersinia infection	K23476  		transloator
+Yersinia infection	K12800  		"NACHT, LRR and PYD domains-containing protein 3"
+Yersinia infection	K12805  		NLR family CARD domain-containing protein 4
+Yersinia infection	K06071  		serine/threonine-protein kinase N1 [EC:2.7.11.13]
+Yersinia infection	K23691  		serine/threonine-protein kinase N2 [EC:2.7.11.13]
+Yersinia infection	K04373  		ribosomal protein S6 kinase alpha-1/2/3/6 [EC:2.7.11.1]
+Yersinia infection	K12803  		pyrin
+Yersinia infection	K05743  		LIM domain kinase 1 [EC:2.7.11.1]
+Yersinia infection	K12799  		apoptosis-associated speck-like protein containing a CARD
+Yersinia infection	K01370  		caspase 1 [EC:3.4.22.36]
+Yersinia infection	K05482  		interleukin 18
+Yersinia infection	K04519  		interleukin 1 beta
+Yersinia infection	K23477  		protein YopQ
+Yersinia infection	K23478  		outer membrane protein YopM
+Yersinia infection	K10160  		toll-like receptor 4
+Yersinia infection	K04729  		myeloid differentiation primary response protein MyD88
+Yersinia infection	K04733  		interleukin-1 receptor-associated kinase 4 [EC:2.7.11.1]
+Yersinia infection	K04730  		interleukin-1 receptor-associated kinase 1 [EC:2.7.11.1]
+Yersinia infection	K03175  		TNF receptor-associated factor 6 [EC:2.3.2.27]
+Yersinia infection	K03173  		TNF receptor-associated factor 2 [EC:2.3.2.27]
+Yersinia infection	K04403  		TAK1-binding protein 1
+Yersinia infection	K04404  		TAK1-binding protein 2
+Yersinia infection	K04427  		mitogen-activated protein kinase kinase kinase 7 [EC:2.7.11.25]
+Yersinia infection	K07210  		inhibitor of nuclear factor kappa-B kinase subunit gamma
+Yersinia infection	K04467  		inhibitor of nuclear factor kappa-B kinase subunit alpha [EC:2.7.11.10]
+Yersinia infection	K07209  		inhibitor of nuclear factor kappa-B kinase subunit beta [EC:2.7.11.10]
+Yersinia infection	K04734  		NF-kappa-B inhibitor alpha
+Yersinia infection	K02580  		nuclear factor NF-kappa-B p105 subunit
+Yersinia infection	K04735  		transcription factor p65
+Yersinia infection	K04368  		mitogen-activated protein kinase kinase 1 [EC:2.7.12.2]
+Yersinia infection	K04369  		mitogen-activated protein kinase kinase 2 [EC:2.7.12.2]
+Yersinia infection	K04371  		mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+Yersinia infection	K04432  		mitogen-activated protein kinase kinase 3 [EC:2.7.12.2]
+Yersinia infection	K04433  		mitogen-activated protein kinase kinase 6 [EC:2.7.12.2]
+Yersinia infection	K04441  		p38 MAP kinase [EC:2.7.11.24]
+Yersinia infection	K04430  		mitogen-activated protein kinase kinase 4 [EC:2.7.12.2]
+Yersinia infection	K04431  		mitogen-activated protein kinase kinase 7 [EC:2.7.12.2]
+Yersinia infection	K04440  		mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]
+Yersinia infection	K04379  		proto-oncogene protein c-fos
+Yersinia infection	K04448  		transcription factor AP-1
+Yersinia infection	K05842  		toll-like receptor adapter molecule 1
+Yersinia infection	K05410  		TANK-binding kinase 1 [EC:2.7.11.10]
+Yersinia infection	K05411  		interferon regulatory factor 3
+Yersinia infection	K03156  		"tumor necrosis factor superfamily, member 2"
+Yersinia infection	K05405  		interleukin 6
+Yersinia infection	K10030  		interleukin 8
+Yersinia infection	K05415  		interferon beta
+Yersinia infection	K08598  		YopJ protease family
+Yersinia infection	K00922  		"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha/beta/delta [EC:2.7.1.153]"
+Yersinia infection	K02649  		phosphoinositide-3-kinase regulatory subunit alpha/beta/delta
+Yersinia infection	K04456  		RAC serine/threonine-protein kinase [EC:2.7.11.1]
+Yersinia infection	K03083  		glycogen synthase kinase 3 beta [EC:2.7.11.26]
+Yersinia infection	K14624  		C-C motif chemokine 2
+Yersinia infection	K06454  		T-cell surface glycoprotein CD4
+Yersinia infection	K06458  		T-cell surface glycoprotein CD8 alpha chain
+Yersinia infection	K06459  		T-cell surface glycoprotein CD8 beta chain
+Yersinia infection	K05856  		lymphocyte cell-specific protein tyrosine kinase [EC:2.7.10.2]
+Yersinia infection	K10784  		T cell receptor alpha chain V region
+Yersinia infection	K10785  		T-cell receptor beta chain V region
+Yersinia infection	K07360  		tyrosine-protein kinase ZAP-70 [EC:2.7.10.2]
+Yersinia infection	K07362  		linker for activation of T cells family member 1
+Yersinia infection	K07361  		lymphocyte cytosolic protein 2
+Yersinia infection	K05730  		guanine nucleotide exchange factor VAV
+Yersinia infection	K01116  		"phosphatidylinositol phospholipase C, gamma-1 [EC:3.1.4.11]"
+Yersinia infection	K04446  		"nuclear factor of activated T-cells, cytoplasmic 1"
+Yersinia infection	K17332  		"nuclear factor of activated T-cells, cytoplasmic 2"
+Yersinia infection	K17333  		"nuclear factor of activated T-cells, cytoplasmic 3"
+Yersinia infection	K05429  		interleukin 2
+Yersinia infection	K05443  		interleukin 10
+Shigellosis	K13285  		invasin B
+Shigellosis	K06256  		CD44 antigen
+Shigellosis	K13286  		invasin C
+Shigellosis	K13287  		invasin D
+Shigellosis	K06484  		integrin alpha 5
+Shigellosis	K05719  		integrin beta 1
+Shigellosis	K05704  		tyrosine-protein kinase Src [EC:2.7.10.2]
+Shigellosis	K05725  		focal adhesion kinase 1 [EC:2.7.10.2]
+Shigellosis	K04438  		C-crk adapter molecule crk
+Shigellosis	K05726  		breast cancer anti-estrogen resistance 1
+Shigellosis	K06106  		cortactin
+Shigellosis	K05760  		paxillin
+Shigellosis	K12366  		engulfment and cell motility protein 1
+Shigellosis	K18985  		engulfment and cell motility protein 2
+Shigellosis	K13708  		dedicator of cytokinesis protein 1
+Shigellosis	K04392  		Ras-related C3 botulinum toxin substrate 1
+Shigellosis	K05753  		"WAS protein family, member 1"
+Shigellosis	K05748  		"WAS protein family, member 2"
+Shigellosis	K17260  		actin-related protein 2
+Shigellosis	K18584  		actin-related protein 3
+Shigellosis	K05757  		"actin related protein 2/3 complex, subunit 1A/1B"
+Shigellosis	K05758  		"actin related protein 2/3 complex, subunit 2"
+Shigellosis	K05756  		"actin related protein 2/3 complex, subunit 3"
+Shigellosis	K05755  		"actin related protein 2/3 complex, subunit 4"
+Shigellosis	K05754  		"actin related protein 2/3 complex, subunit 5"
+Shigellosis	K05692  		actin beta/gamma 1
+Shigellosis	K04513  		"Ras homolog gene family, member A"
+Shigellosis	K05740  		diaphanous 1
+Shigellosis	K04514  		Rho-associated protein kinase 1 [EC:2.7.11.1]
+Shigellosis	K17388  		Rho-associated protein kinase 2 [EC:2.7.11.1]
+Shigellosis	K10351  		myosin regulatory light chain 2
+Shigellosis	K12753  		myosin regulatory light chain 5
+Shigellosis	K12754  		myosin regulatory light chain 7
+Shigellosis	K12755  		myosin regulatory light chain 9
+Shigellosis	K12756  		myosin regulatory light chain 10
+Shigellosis	K12757  		myosin regulatory light chain 12
+Shigellosis	K12758  		fast skeletal myosin light chain 2
+Shigellosis	K05699  		actinin alpha 1/4
+Shigellosis	K06272  		integrin-linked kinase [EC:2.7.11.1]
+Shigellosis	K06271  		talin
+Shigellosis	K05700  		vinculin
+Shigellosis	K04393  		cell division control protein 42
+Shigellosis	K13284  		invasin A
+Shigellosis	K13793  		secreted effector OspE
+Shigellosis	K13790  		virulence protein IcsB
+Shigellosis	K13743  		protein IpgB2
+Shigellosis	K13742  		protein IpgB1
+Shigellosis	K12679  		outer membrane protein IcsA
+Shigellosis	K23612  		neural Wiskott-Aldrich syndrome protein
+Shigellosis	K05759  		profilin
+Shigellosis	K13085  		"phosphatidylinositol-4,5-bisphosphate 4-phosphatase [EC:3.1.3.78]"
+Shigellosis	K04361  		epidermal growth factor receptor [EC:2.7.10.1]
+Shigellosis	K00922  		"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha/beta/delta [EC:2.7.1.153]"
+Shigellosis	K02649  		phosphoinositide-3-kinase regulatory subunit alpha/beta/delta
+Shigellosis	K18441  		cytohesin
+Shigellosis	K07941  		ADP-ribosylation factor 6
+Shigellosis	K07937  		ADP-ribosylation factor 1/2
+Shigellosis	K04456  		RAC serine/threonine-protein kinase [EC:2.7.11.1]
+Shigellosis	K07201  		forkhead box protein O1
+Shigellosis	K09408  		forkhead box protein O3
+Shigellosis	K12358  		forkhead box protein O4
+Shigellosis	K17847  		forkhead box protein O6
+Shigellosis	K08822  		glycogen synthase kinase 3 alpha [EC:2.7.11.26]
+Shigellosis	K03083  		glycogen synthase kinase 3 beta [EC:2.7.11.26]
+Shigellosis	K04688  		ribosomal protein S6 kinase beta [EC:2.7.11.1]
+Shigellosis	K06643  		E3 ubiquitin-protein ligase Mdm2 [EC:2.3.2.27]
+Shigellosis	K05858  		"phosphatidylinositol phospholipase C, beta [EC:3.1.4.11]"
+Shigellosis	K05857  		"phosphatidylinositol phospholipase C, delta [EC:3.1.4.11]"
+Shigellosis	K05860  		"phosphatidylinositol phospholipase C, epsilon [EC:3.1.4.11]"
+Shigellosis	K01116  		"phosphatidylinositol phospholipase C, gamma-1 [EC:3.1.4.11]"
+Shigellosis	K05859  		"phosphatidylinositol phospholipase C, gamma-2 [EC:3.1.4.11]"
+Shigellosis	K05861  		"phosphatidylinositol phospholipase C, zeta [EC:3.1.4.11]"
+Shigellosis	K04958  		"inositol 1,4,5-triphosphate receptor type 1"
+Shigellosis	K04959  		"inositol 1,4,5-triphosphate receptor type 2"
+Shigellosis	K04960  		"inositol 1,4,5-triphosphate receptor type 3"
+Shigellosis	K04281  		calpastatin
+Shigellosis	K01367  		calpain-1 [EC:3.4.22.52]
+Shigellosis	K03853  		calpain-2 [EC:3.4.22.53]
+Shigellosis	K08583  		"calpain, small subunit 1"
+Shigellosis	K04728  		serine-protein kinase ATM [EC:2.7.11.1]
+Shigellosis	K04451  		tumor protein p53
+Shigellosis	K04570  		Bcl-2-like 1 (apoptosis regulator Bcl-X)
+Shigellosis	K02161  		apoptosis regulator Bcl-2
+Shigellosis	K12785  		LEE-encoded effector EspG
+Shigellosis	K07345  		major type 1 subunit fimbrin (pilin)
+Shigellosis	K00844  		hexokinase [EC:2.7.1.1]
+Shigellosis	K05862  		voltage-dependent anion channel protein 1
+Shigellosis	K02159  		apoptosis regulator BAX
+Shigellosis	K08738  		cytochrome c
+Shigellosis	K15464  		BCL2/adenovirus E1B 19 kDa protein-interacting protein 3
+Shigellosis	K05864  		peptidyl-prolyl isomerase D [EC:5.2.1.8]
+Shigellosis	K04394  		caspase 4 [EC:3.4.22.57 3.4.22.64]
+Shigellosis	K04519  		interleukin 1 beta
+Shigellosis	K05482  		interleukin 18
+Shigellosis	K03156  		"tumor necrosis factor superfamily, member 2"
+Shigellosis	K03158  		tumor necrosis factor receptor superfamily member 1A
+Shigellosis	K03171  		tumor necrosis factor receptor type 1-associated DEATH domain protein
+Shigellosis	K03173  		TNF receptor-associated factor 2 [EC:2.3.2.27]
+Shigellosis	K09849  		TNF receptor-associated factor 5
+Shigellosis	K02861  		receptor-interacting serine/threonine-protein kinase 1 [EC:2.7.11.1]
+Shigellosis	K04427  		mitogen-activated protein kinase kinase kinase 7 [EC:2.7.11.25]
+Shigellosis	K04403  		TAK1-binding protein 1
+Shigellosis	K04404  		TAK1-binding protein 2
+Shigellosis	K12793  		TAK1-binding protein 3
+Shigellosis	K07210  		inhibitor of nuclear factor kappa-B kinase subunit gamma
+Shigellosis	K04467  		inhibitor of nuclear factor kappa-B kinase subunit alpha [EC:2.7.11.10]
+Shigellosis	K07209  		inhibitor of nuclear factor kappa-B kinase subunit beta [EC:2.7.11.10]
+Shigellosis	K04734  		NF-kappa-B inhibitor alpha
+Shigellosis	K02581  		NF-kappa-B inhibitor beta
+Shigellosis	K02580  		nuclear factor NF-kappa-B p105 subunit
+Shigellosis	K04735  		transcription factor p65
+Shigellosis	K10030  		interleukin 8
+Shigellosis	K23826  		TRAF-interacting protein with FHA domain-containing protein A
+Shigellosis	K04386  		interleukin 1 receptor type I
+Shigellosis	K04391  		monocyte differentiation antigen CD14
+Shigellosis	K10160  		toll-like receptor 4
+Shigellosis	K02406  		flagellin
+Shigellosis	K10168  		toll-like receptor 5
+Shigellosis	K03175  		TNF receptor-associated factor 6 [EC:2.3.2.27]
+Shigellosis	K06068  		novel protein kinase C delta type [EC:2.7.11.13]
+Shigellosis	K18050  		novel protein kinase C epsilon type [EC:2.7.11.13]
+Shigellosis	K18052  		novel protein kinase C theta type [EC:2.7.11.13]
+Shigellosis	K07369  		mucosa-associated lymphoid tissue lymphoma translocation protein 1 [EC:3.4.22.-]
+Shigellosis	K07368  		B-cell CLL/lymphoma 10
+Shigellosis	K08727  		nucleotide-binding oligomerization domain-containing protein 1
+Shigellosis	K12791  		Rho guanine nucleotide exchange factor 2
+Shigellosis	K08846  		receptor-interacting serine/threonine-protein kinase 2 [EC:2.7.11.1]
+Shigellosis	K04440  		mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]
+Shigellosis	K04448  		transcription factor AP-1
+Shigellosis	K23827  		glutamine deamidase
+Shigellosis	K10704  		ubiquitin-conjugating enzyme E2 variant
+Shigellosis	K10580  		ubiquitin-conjugating enzyme E2 N [EC:2.3.2.23]
+Shigellosis	K23828  		E3 ubiquitin-protein ligase IpaH1.4/2.5 [EC:2.3.2.27]
+Shigellosis	K10630  		RanBP-type and C3HC4-type zinc finger-containing protein 1 [EC:2.3.2.31]
+Shigellosis	K11974  		E3 ubiquitin-protein ligase RNF31 [EC:2.3.2.31]
+Shigellosis	K20894  		shank-associated RH domain-interacting protein
+Shigellosis	K23654  		T3SS secreted effector NleE
+Shigellosis	K23829  		TNFAIP3-interacting protein 1
+Shigellosis	K13791  		invasion plasmid antigen
+Shigellosis	K13792  		secreted effector OspG
+Shigellosis	K06689  		ubiquitin-conjugating enzyme E2 D [EC:2.3.2.23]
+Shigellosis	K03868  		E3 ubiquitin-protein ligase RBX1 [EC:2.3.2.32]
+Shigellosis	K03347  		cullin 1
+Shigellosis	K03094  		S-phase kinase-associated protein 1
+Shigellosis	K03362  		F-box and WD-40 domain protein 1/11
+Shigellosis	K23830  		E3 ubiquitin-protein ligase IpaH4.5 [EC:2.3.2.27]
+Shigellosis	K23831  		E3 ubiquitin-protein ligase IpaH0722 [EC:2.3.2.27]
+Shigellosis	K17834  		cyclic GMP-AMP synthase [EC:2.7.7.86]
+Shigellosis	K12654  		transmembrane protein 173
+Shigellosis	K04729  		myeloid differentiation primary response protein MyD88
+Shigellosis	K05410  		TANK-binding kinase 1 [EC:2.7.11.10]
+Shigellosis	K05411  		interferon regulatory factor 3
+Shigellosis	K05415  		interferon beta
+Shigellosis	K23832  		cysteine protease IpaJ [EC:3.4.22.-]
+Shigellosis	K12836  		splicing factor U2AF 35 kDa subunit
+Shigellosis	K12499  		C-C motif chemokine 5
+Shigellosis	K05427  		granulocyte-macrophage colony-stimulating factor
+Shigellosis	K04371  		mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+Shigellosis	K04441  		p38 MAP kinase [EC:2.7.11.24]
+Shigellosis	K04445  		ribosomal protein S6 kinase alpha-5 [EC:2.7.11.1]
+Shigellosis	K11253  		histone H3
+Shigellosis	K11586  		chromobox protein 3
+Shigellosis	K13450  		phosphothreonine lyase [EC:4.2.3.-]
+Shigellosis	K08334  		beclin
+Shigellosis	K17889  		beclin 1-associated autophagy-related key regulator
+Shigellosis	K08333  		"phosphoinositide-3-kinase, regulatory subunit 4 [EC:2.7.11.1]"
+Shigellosis	K00914  		phosphatidylinositol 3-kinase [EC:2.7.1.137]
+Shigellosis	K16185  		Ras-related GTP-binding protein A/B
+Shigellosis	K16186  		Ras-related GTP-binding protein C/D
+Shigellosis	K07203  		serine/threonine-protein kinase mTOR [EC:2.7.11.1]
+Shigellosis	K07204  		regulatory associated protein of mTOR
+Shigellosis	K16184  		proline-rich AKT1 substrate 1
+Shigellosis	K17890  		autophagy-related protein 16-1
+Shigellosis	K08339  		autophagy-related protein 5
+Shigellosis	K08336  		ubiquitin-like protein ATG12
+Shigellosis	K10435  		microtubule-associated protein 1 light chain
+Shigellosis	K03990  		complement component 3
+Shigellosis	K14381  		sequestosome 1
+Shigellosis	K21348  		calcium-binding and coiled-coil domain-containing protein 2
+Shigellosis	K02927  		ubiquitin-large subunit ribosomal protein L40e
+Shigellosis	K02977  		ubiquitin-small subunit ribosomal protein S27Ae
+Shigellosis	K04551  		ubiquitin B
+Shigellosis	K08770  		ubiquitin C
+Shigellosis	K16942  		septin 2
+Shigellosis	K16938  		septin 3/9/12
+Shigellosis	K16939  		septin 6/8/11
+Shigellosis	K16944  		septin 7
+Shigellosis	K17908  		autophagy-related protein 18
+Shigellosis	K17988  		tectonin beta-propeller repeat-containing protein 1
+Shigellosis	K20121  		formin-binding protein 1
+Shigellosis	K13520  		outer membrane protease [EC:3.4.23.-]
+Shigellosis	K23833  		secreted effector OspC
+Shigellosis	K11006  		shiga toxin subunit A
+Shigellosis	K11007  		shiga toxin subunit B
+Shigellosis	K11011  		enterotoxin Set1A
+Shigellosis	K11012  		enterotoxin Set1B
+Shigellosis	K23345  		glomulin
+Shigellosis	K12800  		"NACHT, LRR and PYD domains-containing protein 3"
+Shigellosis	K22487  		type III secretion system protein
+Shigellosis	K12807  		baculoviral IAP repeat-containing protein 1
+Shigellosis	K03221  		type III secretion protein F
+Shigellosis	K12805  		NLR family CARD domain-containing protein 4
+Shigellosis	K12799  		apoptosis-associated speck-like protein containing a CARD
+Shigellosis	K01370  		caspase 1 [EC:3.4.22.36]
+Shigellosis	K23834  		E3 ubiquitin-protein ligase IpaH7.8 [EC:2.3.2.27]

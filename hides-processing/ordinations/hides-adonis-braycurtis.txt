@@ -1,0 +1,13 @@
+ADONIS: HIDES ONLYPermutation test for adonis under reduced model
+Marginal effects of terms
+Permutation: free
+Number of permutations: 999
+
+adonis2(formula = cbdist ~ Treatment + Day, data = samdt[rn %in% hide_samples, ], by = "margin")
+          Df SumOfSqs      R2      F Pr(>F)  
+Treatment  1  0.49865 0.20650 2.2152  0.053 .
+Day        1  0.79828 0.33059 3.5463  0.017 *
+Residual   6  1.35062 0.55933                
+Total      8  2.41472 1.00000                
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

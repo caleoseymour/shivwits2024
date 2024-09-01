@@ -1,0 +1,12 @@
+ADONIS: DAY 0 VS DAY6 UNTREATED WATER
+[1] "4.Day.0" "5.Day.0" "6.Day.0" "1.Day.6" "2.Day.6" "3.Day.6"
+Permutation test for adonis under reduced model
+Terms added sequentially (first to last)
+Permutation: free
+Number of permutations: 719
+
+adonis2(formula = cbdist ~ Day, data = samdt[rn %in% water_timecourse_samples, ])
+         Df SumOfSqs      R2     F Pr(>F)
+Day       1 0.021643 0.48527 3.771    0.1
+Residual  4 0.022957 0.51473             
+Total     5 0.044600 1.00000             

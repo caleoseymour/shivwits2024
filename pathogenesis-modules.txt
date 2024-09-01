@@ -1,0 +1,14 @@
+module	name
+M00852	Vibrio cholerae pathogenicity signature, toxin coregulated pilus [PATH:map05110 map05111]
+M00850	Vibrio cholerae pathogenicity signature, cholera toxins [PATH:map05110]
+M00542	EHEC/EPEC pathogenicity signature, T3SS and effectors [PATH:map05130]
+M00363	EHEC pathogenicity signature, Shiga toxin [PATH:map05130 map05131]
+M00853	ETEC pathogenicity signature, colonization factors
+M00576	ETEC pathogenicity signature, heat-labile and heat-stable enterotoxins
+M00856	Salmonella enterica pathogenicity signature, typhoid toxin
+M00857	Salmonella enterica pathogenicity signature, Vi antigen
+M00575	Pertussis pathogenicity signature, T1SS [PATH:map05133]
+M00574	Pertussis pathogenicity signature, pertussis toxin [PATH:map05133]
+M00564	Helicobacter pylori pathogenicity signature, cagA pathogenicity island [PATH:map05120]
+M00859	Bacillus anthracis pathogenicity signature, anthrax toxin
+M00860	Bacillus anthracis pathogenicity signature, polyglutamic acid capsule biosynthesis

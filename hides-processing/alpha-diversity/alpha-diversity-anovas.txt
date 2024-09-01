@@ -1,0 +1,36 @@
+ANOVA FORMULA:  Observed ~ Material + Treatment 
+            Df Sum Sq Mean Sq F value   Pr(>F)    
+Material     1 198240  198240  24.711 0.000168 ***
+Treatment    1  13885   13885   1.731 0.208072    
+Residuals   15 120337    8022                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+---
+
+ANOVA FORMULA:  Shannon ~ Material + Treatment 
+            Df Sum Sq Mean Sq F value Pr(>F)   
+Material     1  4.890   4.890   16.59  0.001 **
+Treatment    1  0.227   0.227    0.77  0.394   
+Residuals   15  4.422   0.295                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+---
+
+ANOVA FORMULA:  Faiths.PD ~ Material + Treatment 
+            Df Sum Sq Mean Sq F value  Pr(>F)   
+Material     1  407.7   407.7   16.07 0.00114 **
+Treatment    1   13.9    13.9    0.55 0.46991   
+Residuals   15  380.5    25.4                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+---
+
+ANOVA FORMULA:  Simpson ~ Material + Treatment 
+            Df   Sum Sq   Mean Sq F value Pr(>F)  
+Material     1 0.002627 0.0026270   8.199 0.0118 *
+Treatment    1 0.000013 0.0000130   0.041 0.8431  
+Residuals   15 0.004806 0.0003204                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+---
+

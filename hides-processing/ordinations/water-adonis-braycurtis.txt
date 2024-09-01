@@ -1,0 +1,15 @@
+ADONIS: WATER ONLY[1] "1.Day.6" "2.Day.6" "3.Day.6" "4.Day.0" "4.Day.6" "5.Day.0" "5.Day.6"
+[8] "6.Day.0" "6.Day.6"
+Permutation test for adonis under reduced model
+Marginal effects of terms
+Permutation: free
+Number of permutations: 999
+
+adonis2(formula = cbdist ~ Treatment + Day, data = samdt[rn %in% water_samples, ], by = "margin")
+          Df SumOfSqs      R2      F Pr(>F)  
+Treatment  1  0.76506 0.24629 2.3319  0.032 *
+Day        1  0.36176 0.11646 1.1026  0.305  
+Residual   6  1.96852 0.63370                
+Total      8  3.10637 1.00000                
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
